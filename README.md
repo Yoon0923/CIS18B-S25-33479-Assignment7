@@ -30,6 +30,7 @@ Requirements
 
 You should see a window titled "Event Planner" with an empty event list and a button to add events. The event-adding functionality and list view are styled using basic JavaFX effects and structure.
 
+ Screenshots of running program
 ![image](https://github.com/user-attachments/assets/5092e035-ed5b-46cc-adee-478d933f8ec9)
 
 
