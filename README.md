@@ -22,15 +22,14 @@ Requirements
       Example)
 
       --module-path "C:/path/to/javafx-sdk-24.0.1/lib" --add-modules javafx.controls,javafx.fxml
-      
 
-      > Replace `C:/path/to/...` with the actual path where you extracted your JavaFX SDK.
+        > Replace `C:/path/to/...` with the actual path where you extracted your JavaFX SDK.
 
-5. Click **Run** to start the application.
+5. Click Run to start the application.
 
 You should see a window titled "Event Planner" with an empty event list and a button to add events. The event-adding functionality and list view are styled using basic JavaFX effects and structure.
 
- Screenshots of running program
+ Screenshots of the running program:
 
 
  
